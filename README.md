@@ -7,7 +7,7 @@ Download the [Termux](https://play.google.com/store/apps/details?id=com.termux) 
 ## Setting up Termux:
 #### 1. Run update and upgrade
 ```bash
-pkg update && apt upgrade
+pkg update && pkg upgrade
 ```
 #### 2. Give termux access to your phone's filesystem via ~/storage/shared
 ```bash
